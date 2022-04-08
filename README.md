@@ -1,2 +1,2 @@
-# wordletoken
-Wordle Token
+# wordle fan token
+Wordle Fan Token
