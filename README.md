@@ -1,0 +1,2 @@
+# wordletoken
+Wordle Token
